@@ -19,6 +19,14 @@
                 <td>Phone Number:</td>
                 <td><input type="tel" name="phone" required></td>
             </tr>
+        <tr>
+                <td>Username:</td>
+                <td><input type="text" name="username" required></td>
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type="password" name="password" required></td>
+            </tr>
             <tr>
                 <td>Preferred Train Route:</td>
                 <td>
