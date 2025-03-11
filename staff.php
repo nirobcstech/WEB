@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html>
 <head>
     <title>Train Staff Registration</title>
