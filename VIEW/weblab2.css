@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #3535b8d2;
+}
+
+
+#header {
+    background-color: #b6710b85;
+    color: rgb(4, 10, 5);
+    text-align: center;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+   
+}
+
+
+
+
+.container {
+    max-width: 90%;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(124, 204, 164);
+    border: 1px solid #0f010a;
+    
+}
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #bb920d;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #36852b;
+    color: white;
+}
+
+
+.book-btn {
+    display: inline-block;
+    position: relative;
+    left: 440px;
+    background-color: #920a0a;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    
+}
+
+.book-btn:hover {
+    background-color: #914b2f;
+}
+#logo-container {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    z-index: 1; 
+    padding: 10px;
+}
+
+#railway-logo {
+    height: 100px;
+    width: auto;
+
+}
